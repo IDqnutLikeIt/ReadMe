@@ -5,4 +5,4 @@ Hey! Ik ben Nick, oftewel IDqnutLikeIt.
 DraconiaMC - [https://discord.draconiamc.net/]
 
 📱 | Development
-* Java
+* Java ( Niet de beste tho )
